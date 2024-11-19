@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "233118945585",
+    "project_id": "moviefinder-e0803",
+    "storage_bucket": "moviefinder-e0803.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233118945585:android:2423882371a789ab746010",
+        "android_client_info": {
+          "package_name": "com.example.movie_finder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHlBrnSRlTr7nzqxwtAN17zCA01iuLRU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
